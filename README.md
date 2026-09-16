@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *React, Next, MERN, Android, Hasura, GraphQL*
 
-- 📫 How to reach me *abhisheksingh@forcebolt.com*
+- 📫 How to reach me *abhishek.singh@cloudanalogy.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
